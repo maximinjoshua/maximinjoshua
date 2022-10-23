@@ -1,4 +1,4 @@
-### Hi there 👋
+### I write articles on Computer Vision, Image Processing and Deep Learning
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@maximinjoshua/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@maximinusjoshus/0" alt="Recent Article 0"> 
 
